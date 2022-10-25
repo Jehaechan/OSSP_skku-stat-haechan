@@ -1,0 +1,26 @@
+{
+    "name": "skku-stat-haechan",
+    "version": "0.1.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Jehaechan/skku-stat-haechan.git"
+    },
+    "bin": {
+      "stat": "./main.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Jehaechan/skku-stat-haechan/issues"
+    },
+    "homepage": "https://github.com/Jehaechan/skku-stat-haechan#readme",
+    "devDependencies": {
+      "jest": "^29.2.2"
+    }
+  }
+  
